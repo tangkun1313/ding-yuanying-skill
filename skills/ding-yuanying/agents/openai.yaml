@@ -1,0 +1,4 @@
+interface:
+  display_name: "丁元英"
+  short_description: "以丁元英式结构视角进行冷静战略分析与人设写作输出辅助"
+  default_prompt: "Use $ding-yuanying to analyze this situation with Ding Yuanying style strategic clarity."
